@@ -1,2 +1,2 @@
-# Radio_Player_HTML5_Flat
+# Radio Player HTML5 Flat
 Simple Streaming Flat Player
