@@ -25,19 +25,19 @@ error_reporting(0);
 <head>
 <meta charset="utf-8">
     <title>Dance Radios Streaming</title>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=1920">
-	<meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" />
+    <meta name="viewport" content="width=1920">
+    <meta name="viewport" content="minimum-scale=1.0, width=device-width, maximum-scale=1, user-scalable=no" />
     <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Dance Radios Streaming">
-	<meta name="keywords" content="Dance Radios Streaming">
-	<meta name="author" content="Olsion Bakiaj">
-	<meta name="referrer" content="origin">
-	<meta http-equiv="cache-control" content="no-store">
-	<meta name="msapplication-TileColor" content="#0F0">
-	<meta name="msapplication-navbutton-color" content="#0F0">
-	<meta name="theme-color" content="#0F0">
+    <meta name="description" content="Dance Radios Streaming">
+    <meta name="keywords" content="Dance Radios Streaming">
+    <meta name="author" content="Olsion Bakiaj">
+    <meta name="referrer" content="origin">
+    <meta http-equiv="cache-control" content="no-store">
+    <meta name="msapplication-TileColor" content="#0F0">
+    <meta name="msapplication-navbutton-color" content="#0F0">
+    <meta name="theme-color" content="#0F0">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="#0F0">
     <meta property="og:site_name" content="Dance Radios Streaming">
